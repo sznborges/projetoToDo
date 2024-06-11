@@ -11,3 +11,5 @@ CREATE TABLE tasks (
 -- +goose Down 
 DROP TABLE tasks;
 ```
+
+# Alterando o readme
